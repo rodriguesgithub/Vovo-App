@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VovoApp</string>
+    <string name="button_entrar">entrar</string>
+    <string name="button_cadastrar">criar conta</string>
+    <string name="edit_text_hint_CPF">CPF</string>
+    <string name="edit_text_hint_senha1">Senha</string>
+    <string name="edit_text_hint_senha2">Confirmar Senha</string>
+    <string name="link_cadastro">Não tens uma conta?</string>
+    <string name="edit_text_hint_nome">Nome</string>
+</resources>
